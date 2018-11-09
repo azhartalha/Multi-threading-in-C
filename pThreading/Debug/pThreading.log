@@ -1,0 +1,24 @@
+﻿  concurrent queue.cpp
+c:\users\syeda\source\repos\pthreading\pthreading\concurrent queue.cpp(175): warning C4018: '<': signed/unsigned mismatch
+c:\users\syeda\source\repos\pthreading\pthreading\concurrent queue.cpp(197): warning C4018: '<': signed/unsigned mismatch
+c:\users\syeda\source\repos\pthreading\pthreading\concurrent queue.cpp(208): warning C4018: '<': signed/unsigned mismatch
+c:\users\syeda\source\repos\pthreading\pthreading\concurrent queue.cpp(219): warning C4018: '<': signed/unsigned mismatch
+c:\users\syeda\source\repos\pthreading\pthreading\concurrent queue.cpp(226): warning C4018: '<': signed/unsigned mismatch
+c:\users\syeda\source\repos\pthreading\pthreading\concurrent queue.cpp(241): warning C4018: '<': signed/unsigned mismatch
+c:\users\syeda\source\repos\pthreading\pthreading\concurrent queue.cpp(275): warning C4018: '<': signed/unsigned mismatch
+c:\users\syeda\source\repos\pthreading\pthreading\concurrent queue.cpp(293): warning C4018: '<': signed/unsigned mismatch
+c:\users\syeda\source\repos\pthreading\pthreading\concurrent queue.cpp(343): warning C4018: '<': signed/unsigned mismatch
+c:\users\syeda\source\repos\pthreading\pthreading\concurrent queue.cpp(350): warning C4018: '<': signed/unsigned mismatch
+c:\users\syeda\source\repos\pthreading\pthreading\concurrent queue.cpp(365): warning C4018: '<': signed/unsigned mismatch
+c:\users\syeda\source\repos\pthreading\pthreading\concurrent queue.cpp(399): warning C4018: '<': signed/unsigned mismatch
+c:\users\syeda\source\repos\pthreading\pthreading\concurrent queue.cpp(416): warning C4018: '<': signed/unsigned mismatch
+c:\users\syeda\source\repos\pthreading\pthreading\concurrent queue.cpp(426): warning C4129: 'P': unrecognized character escape sequence
+c:\users\syeda\source\repos\pthreading\pthreading\concurrent queue.cpp(521): warning C4091: 'typedef ': ignored on left of 'clintNode' when no variable is declared
+c:\users\syeda\source\repos\pthreading\pthreading\concurrent queue.cpp(527): warning C4091: 'typedef ': ignored on left of 'queueNode' when no variable is declared
+c:\users\syeda\source\repos\pthreading\pthreading\concurrent queue.cpp(533): warning C4091: 'typedef ': ignored on left of 'threadData' when no variable is declared
+c:\users\syeda\source\repos\pthreading\pthreading\concurrent queue.cpp(539): warning C4091: 'typedef ': ignored on left of 'ConcurrentQueue' when no variable is declared
+  matrixMull.cpp
+  syncronization.cpp
+c:\users\syeda\source\repos\pthreading\pthreading\syncronization.cpp(35): warning C4101: 'i': unreferenced local variable
+  Generating Code...
+  pThreading.vcxproj -> C:\Users\syeda\source\repos\pThreading\Debug\pThreading.exe
